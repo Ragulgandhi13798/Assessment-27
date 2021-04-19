@@ -1,6 +1,6 @@
 package test1.com;
 
-import java.util.Iterator;
+//import java.util.Iterator;
 import java.util.Stack;
 
 public class Stackeg {
